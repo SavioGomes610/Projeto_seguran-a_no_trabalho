@@ -1,0 +1,1 @@
+Este projeto tem como objetivo analisar dados reais/fictícios de acidentes de trabalho, identificando os tipos de ocorrências mais frequentes, os setores mais críticos e os turnos com maior incidência. A análise foi realizada utilizando Python, Pandas e Visualização de Dados, contribuindo para a tomada de decisão e prevenção de riscos ocupacionais.
